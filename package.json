@@ -1,0 +1,12 @@
+{
+  "name": "start1",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "npm run dev --prefix my-start",
+    "build": "npm run build --prefix my-start",
+    "start": "npm run start --prefix my-start",
+    "lint": "npm run lint --prefix my-start",
+    "test": "npm test --prefix my-start"
+  }
+}
