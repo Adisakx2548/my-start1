@@ -2,7 +2,7 @@
 
 import React, { useState } from 'react';
 import type { Place } from '../types/travel';
-import { Heart, MapPin, ArrowRight, Navigation } from 'lucide-react';
+import { Heart, MapPin, ArrowRight, Navigation, CheckCircle2, BookOpen } from 'lucide-react';
 
 interface PlaceCardProps {
   place: Place;
@@ -37,7 +37,10 @@ export function PlaceCard({ place, isSelected, onSelect, onOpenDetail }: PlaceCa
 
   return (
     <div
-      onClick={() => onSelect(place)}
+      onClick={() => {
+        onSelect(place);
+        onOpenDetail?.(place);
+      }}
       className={`group relative flex flex-col rounded-3xl bg-white border transition-all duration-300 overflow-hidden cursor-pointer ${
         isSelected
           ? 'border-emerald-600 ring-2 ring-emerald-500/30 shadow-xl shadow-emerald-500/10 -translate-y-1'
@@ -92,12 +95,20 @@ export function PlaceCard({ place, isSelected, onSelect, onOpenDetail }: PlaceCa
             <span>อ.{place.district} • เพชรบูรณ์</span>
           </div>
 
+          {/* Top Pro Highlight Badge */}
+          {place.pros && place.pros.length > 0 && (
+            <div className="mb-2.5 flex items-center gap-1.5 text-[11px] text-emerald-800 bg-emerald-50/90 px-2.5 py-1 rounded-xl border border-emerald-100/90 font-medium">
+              <CheckCircle2 className="w-3 h-3 text-emerald-600 shrink-0" />
+              <span className="truncate">{place.pros[0]}</span>
+            </div>
+          )}
+
           {/* Description snippet */}
           <p className="text-xs text-slate-600 line-clamp-2 leading-relaxed">
             {place.description}
           </p>
 
-          {/* Tag Chips (Light blue rounded pills as in design) */}
+          {/* Tag Chips */}
           <div className="mt-3.5 flex flex-wrap gap-1.5">
             {place.highlights.slice(0, 3).map((tag, idx) => (
               <span
@@ -118,10 +129,11 @@ export function PlaceCard({ place, isSelected, onSelect, onOpenDetail }: PlaceCa
               e.stopPropagation();
               onOpenDetail?.(place);
             }}
-            className="inline-flex items-center gap-1 text-slate-700 hover:text-emerald-700 transition-colors group/link"
+            className="inline-flex items-center gap-1.5 text-slate-700 hover:text-emerald-700 transition-colors group/link"
           >
-            <span>ดูรายละเอียด</span>
-            <ArrowRight className="w-3.5 h-3.5 text-emerald-600 group-hover/link:translate-x-1 transition-transform" />
+            <BookOpen className="w-3.5 h-3.5 text-emerald-600" />
+            <span>ประวัติ & ข้อมูล</span>
+            <ArrowRight className="w-3 h-3 text-emerald-600 group-hover/link:translate-x-1 transition-transform" />
           </button>
 
           <button

@@ -24,6 +24,12 @@ export interface Place {
   reviewCount: number;
   highlights: string[];
   isFeatured?: boolean;
+  history?: string;            // ประวัติความเป็นมา ความเป็นมาทางประวัติศาสตร์หรือตำนาน
+  pros?: string[];             // ข้อดี / จุดเด่น ทำไมต้องมาที่นี่
+  galleryImages?: string[];    // รูปภาพตัวอย่างเพิ่มเติม
+  bestTimeToVisit?: string;    // ช่วงเวลาที่แนะนำให้ไป
+  tips?: string[];             // คำแนะนำ / ข้อควรระวัง
+  amenities?: string[];        // สิ่งอำนวยความสะดวก
 }
 
 export interface Province {
