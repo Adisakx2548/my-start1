@@ -80,7 +80,7 @@
     "galleryImages": [
       "/images/places/phetchabun-2.jpg",
       "/images/places/phetchabun-38.jpg",
-      "/images/places/phetchabun-35.jpg"
+      "/images/places/phetchabun-25.jpg"
     ]
   },
   {
@@ -121,7 +121,7 @@
     ],
     "galleryImages": [
       "/images/places/phetchabun-3.jpg",
-      "/images/places/phetchabun-42.jpg",
+      "/images/places/phetchabun-14.jpg",
       "/images/places/phetchabun-63.jpg"
     ]
   },
@@ -130,8 +130,8 @@
     "name": "สวนสาธารณะหนองนารี",
     "district": "เมืองเพชรบูรณ์",
     "provinceId": "phetchabun",
-    "category": "temple_culture",
-    "categoryLabel": "วัด & ศาสนสถาน",
+    "category": "nature_park",
+    "categoryLabel": "อุทยาน น้ำตก & ถ้ำ",
     "description": "สวนสาธารณะขนาดใหญ่หรือเรียกอีกชื่อหนึ่งว่า “หนองนารี” ตามตำนานเล่าว่าหนองน้ำเก่าแห่งนี้ถูกค้นพบในสมัยจอมพล ป. พิบูลสงคราม และได้ถูกพัฒนาเพื่อทำเป็นแหล่งเก็บน้ำไว้ใช้ในภาวะสงคราม ต่อมาได้รับการฟื้นฟูปรับภูมิทัศน์จนกลายเป็นสวนสาธารณะขนาดใหญ่บนพื้นที่กว่า 200 ไร่ ประกอบด้วยบึงน้ำอันกว้างใหญ่ที่ปกคลุมไปด้วยดอกบัวชูช่ออวดโฉมรับแสงแดดยามเช้า มีศาลาริมน้ำให้นั่งพักผ่อนทอดสายตาชมวิวทิวทัศน์โดยรอบ ท่ามกลางบรรยากาศอันแสนสบาย และก่อนพระอาทิตย์ตกดิน มองเห็นฝูงนกนานาพรรณที่พากันบินกลับรัง นอกจากนี้ ภายในสวนรุกขชาติหนองนารี ยังมีส่วนที่เป็นพิพิธภัณฑ์ให้เยี่ยมชมอีกด้วย",
     "coordinates": {
       "lat": 16.4397285,
@@ -163,8 +163,8 @@
     ],
     "galleryImages": [
       "/images/places/phetchabun-4.jpg",
-      "/images/places/phetchabun-9.jpg",
-      "/images/places/phetchabun-60.jpg"
+      "/images/places/phetchabun-42.jpg",
+      "/images/places/phetchabun-27.jpg"
     ]
   },
   {
@@ -172,8 +172,8 @@
     "name": "อุทยานแห่งชาติตาดหมอก",
     "district": "เมืองเพชรบูรณ์",
     "provinceId": "phetchabun",
-    "category": "lifestyle_farm",
-    "categoryLabel": "การเกษตร & วิถีชุมชน",
+    "category": "nature_park",
+    "categoryLabel": "อุทยาน น้ำตก & ถ้ำ",
     "description": "เป็นแหล่งของทรัพยากรธรรมชาติที่สำคัญและมีค่า เช่น พันธุ์ไม้ ของป่า สัตว์ป่านานาชนิด ตลอดจนทิวทัศน์ ป่า ภูเขา และน้ำตกที่สวยงามยิ่ง มีเนื้อที่ประมาณ 290 ตารางกิโลเมตร หรือ 181,250 ไร่",
     "coordinates": {
       "lat": 16.3857063,
@@ -207,7 +207,7 @@
     ],
     "galleryImages": [
       "/images/places/phetchabun-5.jpg",
-      "/images/places/phetchabun-27.jpg",
+      "/images/places/phetchabun-63.jpg",
       "/images/places/phetchabun-29.jpg"
     ]
   },
@@ -249,7 +249,7 @@
     ],
     "galleryImages": [
       "/images/places/phetchabun-6.jpg",
-      "/images/places/phetchabun-60.jpg",
+      "/images/places/phetchabun-26.jpg",
       "/images/places/phetchabun-28.jpg"
     ]
   },
@@ -291,8 +291,8 @@
     ],
     "galleryImages": [
       "/images/places/phetchabun-7.jpg",
-      "/images/places/phetchabun-28.jpg",
-      "/images/places/phetchabun-47.jpg"
+      "/images/places/phetchabun-27.jpg",
+      "/images/places/phetchabun-31.jpg"
     ]
   },
   {
@@ -334,8 +334,8 @@
     ],
     "galleryImages": [
       "/images/places/phetchabun-8.jpg",
-      "/images/places/phetchabun-57.jpg",
-      "/images/places/phetchabun-11.jpg"
+      "/images/places/phetchabun-31.jpg",
+      "/images/places/phetchabun-57.jpg"
     ]
   },
   {
@@ -376,8 +376,8 @@
     ],
     "galleryImages": [
       "/images/places/phetchabun-9.jpg",
-      "/images/places/phetchabun-47.jpg",
-      "/images/places/phetchabun-57.jpg"
+      "/images/places/phetchabun-29.jpg",
+      "/images/places/phetchabun-48.jpg"
     ]
   },
   {
@@ -418,8 +418,8 @@
     ],
     "galleryImages": [
       "/images/places/phetchabun-10.jpg",
-      "/images/places/phetchabun-51.jpg",
-      "/images/places/phetchabun-5.jpg"
+      "/images/places/phetchabun-31.jpg",
+      "/images/places/phetchabun-57.jpg"
     ]
   },
   {
@@ -461,8 +461,8 @@
     ],
     "galleryImages": [
       "/images/places/phetchabun-11.jpg",
-      "/images/places/phetchabun-5.jpg",
-      "/images/places/phetchabun-43.jpg"
+      "/images/places/phetchabun-48.jpg",
+      "/images/places/phetchabun-38.jpg"
     ]
   },
   {
@@ -503,7 +503,7 @@
     ],
     "galleryImages": [
       "/images/places/phetchabun-12.jpg",
-      "/images/places/phetchabun-57.jpg",
+      "/images/places/phetchabun-48.jpg",
       "/images/places/phetchabun-11.jpg"
     ]
   },
@@ -545,8 +545,8 @@
     ],
     "galleryImages": [
       "/images/places/phetchabun-13.jpg",
-      "/images/places/phetchabun-5.jpg",
-      "/images/places/phetchabun-42.jpg"
+      "/images/places/phetchabun-48.jpg",
+      "/images/places/phetchabun-11.jpg"
     ]
   },
   {
@@ -587,8 +587,8 @@
     ],
     "galleryImages": [
       "/images/places/phetchabun-14.jpg",
-      "/images/places/phetchabun-42.jpg",
-      "/images/places/phetchabun-63.jpg"
+      "/images/places/phetchabun-38.jpg",
+      "/images/places/phetchabun-24.jpg"
     ]
   },
   {
@@ -596,8 +596,8 @@
     "name": "น้ำตกแสนสมบูรณ์",
     "district": "ชนแดน",
     "provinceId": "phetchabun",
-    "category": "temple_culture",
-    "categoryLabel": "วัด & ศาสนสถาน",
+    "category": "nature_park",
+    "categoryLabel": "อุทยาน น้ำตก & ถ้ำ",
     "description": "น้ำตกแสนสมบูรณ์ เป็นน้ำตกที่มีความงดงามมากแห่งหนึ่งของ ต.พุทธบาท อำเภอชนแดน จังหวัดเพชรบูรณ์ มีทั้งหมดเจ็ดชั้นโดยน้ำตกนี้เป็นแหล่งท่องเที่ยวที่ไม่ค่อยมีใครรู้จักมากนัก เพราะอยู่ในหุบเขา แต่เมื่อได้เข้าไปสัมผัสแล้ว จะมีความรู้สึกว่าที่นี่สวยงามจริงๆ อยู่ห่างจากตำบลชนแดนไปไม่ไกล ทางเข้าอยู่ตรงข้ามกับโรงเรียนห้วยงาช้าง เข้าไปประมาณ 4 กิโลเมตร จะพบกับน้ำตกที่สวยงาม",
     "coordinates": {
       "lat": 16.280583,
@@ -629,8 +629,8 @@
     ],
     "galleryImages": [
       "/images/places/phetchabun-15.jpg",
-      "/images/places/phetchabun-42.jpg",
-      "/images/places/phetchabun-63.jpg"
+      "/images/places/phetchabun-38.jpg",
+      "/images/places/phetchabun-24.jpg"
     ]
   },
   {
@@ -671,8 +671,8 @@
     ],
     "galleryImages": [
       "/images/places/phetchabun-16.jpg",
-      "/images/places/phetchabun-63.jpg",
-      "/images/places/phetchabun-28.jpg"
+      "/images/places/phetchabun-36.jpg",
+      "/images/places/phetchabun-25.jpg"
     ]
   },
   {
@@ -713,8 +713,8 @@
     ],
     "galleryImages": [
       "/images/places/phetchabun-17.jpg",
-      "/images/places/phetchabun-27.jpg",
-      "/images/places/phetchabun-29.jpg"
+      "/images/places/phetchabun-2.jpg",
+      "/images/places/phetchabun-61.jpg"
     ]
   },
   {
@@ -755,8 +755,8 @@
     ],
     "galleryImages": [
       "/images/places/phetchabun-18.jpg",
-      "/images/places/phetchabun-62.jpg",
-      "/images/places/phetchabun-7.jpg"
+      "/images/places/phetchabun-42.jpg",
+      "/images/places/phetchabun-40.jpg"
     ]
   },
   {
@@ -797,8 +797,8 @@
     ],
     "galleryImages": [
       "/images/places/phetchabun-19.jpg",
-      "/images/places/phetchabun-10.jpg",
-      "/images/places/phetchabun-9.jpg"
+      "/images/places/phetchabun-43.jpg",
+      "/images/places/phetchabun-38.jpg"
     ]
   },
   {
@@ -839,8 +839,8 @@
     ],
     "galleryImages": [
       "/images/places/phetchabun-20.jpg",
-      "/images/places/phetchabun-47.jpg",
-      "/images/places/phetchabun-57.jpg"
+      "/images/places/phetchabun-61.jpg",
+      "/images/places/phetchabun-14.jpg"
     ]
   },
   {
@@ -881,8 +881,8 @@
     ],
     "galleryImages": [
       "/images/places/phetchabun-21.jpg",
-      "/images/places/phetchabun-9.jpg",
-      "/images/places/phetchabun-60.jpg"
+      "/images/places/phetchabun-40.jpg",
+      "/images/places/phetchabun-2.jpg"
     ]
   },
   {
@@ -923,8 +923,8 @@
     ],
     "galleryImages": [
       "/images/places/phetchabun-22.jpg",
-      "/images/places/phetchabun-27.jpg",
-      "/images/places/phetchabun-29.jpg"
+      "/images/places/phetchabun-38.jpg",
+      "/images/places/phetchabun-24.jpg"
     ]
   },
   {
@@ -965,8 +965,8 @@
     ],
     "galleryImages": [
       "/images/places/phetchabun-23.jpg",
-      "/images/places/phetchabun-5.jpg",
-      "/images/places/phetchabun-42.jpg"
+      "/images/places/phetchabun-14.jpg",
+      "/images/places/phetchabun-63.jpg"
     ]
   },
   {
@@ -1007,8 +1007,8 @@
     ],
     "galleryImages": [
       "/images/places/phetchabun-24.jpg",
-      "/images/places/phetchabun-29.jpg",
-      "/images/places/phetchabun-51.jpg"
+      "/images/places/phetchabun-25.jpg",
+      "/images/places/phetchabun-28.jpg"
     ]
   },
   {
@@ -1049,8 +1049,8 @@
     ],
     "galleryImages": [
       "/images/places/phetchabun-25.jpg",
-      "/images/places/phetchabun-28.jpg",
-      "/images/places/phetchabun-47.jpg"
+      "/images/places/phetchabun-24.jpg",
+      "/images/places/phetchabun-10.jpg"
     ]
   },
   {
@@ -1091,8 +1091,8 @@
     ],
     "galleryImages": [
       "/images/places/phetchabun-26.jpg",
-      "/images/places/phetchabun-29.jpg",
-      "/images/places/phetchabun-51.jpg"
+      "/images/places/phetchabun-61.jpg",
+      "/images/places/phetchabun-7.jpg"
     ]
   },
   {
@@ -1177,7 +1177,7 @@
     ],
     "galleryImages": [
       "/images/places/phetchabun-28.jpg",
-      "/images/places/phetchabun-42.jpg",
+      "/images/places/phetchabun-14.jpg",
       "/images/places/phetchabun-63.jpg"
     ]
   },
@@ -1220,8 +1220,8 @@
     ],
     "galleryImages": [
       "/images/places/phetchabun-29.jpg",
-      "/images/places/phetchabun-43.jpg",
-      "/images/places/phetchabun-27.jpg"
+      "/images/places/phetchabun-42.jpg",
+      "/images/places/phetchabun-40.jpg"
     ]
   },
   {
@@ -1262,8 +1262,8 @@
     ],
     "galleryImages": [
       "/images/places/phetchabun-30.jpg",
-      "/images/places/phetchabun-42.jpg",
-      "/images/places/phetchabun-63.jpg"
+      "/images/places/phetchabun-9.jpg",
+      "/images/places/phetchabun-27.jpg"
     ]
   },
   {
@@ -1271,8 +1271,8 @@
     "name": "ภูทับเบิก (จุดชมวิวสูงสุด 1,768 ม.)",
     "district": "หล่มเก่า",
     "provinceId": "phetchabun",
-    "category": "temple_culture",
-    "categoryLabel": "วัด & ศาสนสถาน",
+    "category": "mountain_view",
+    "categoryLabel": "ยอดดอย & ทะเลหมอก",
     "description": "ภูทับเบิก ตั้งอยู่ที่ตำบลวังบาล จังหวัดเพชรบูรณ์ มีความสูงจากระดับทะเลประมาณ 1,768 เมตร เป็นจุดที่สูงที่สุดของเพชรบูรณ์ มีสภาพภูมิประเทศที่สวยงามด้วยธรรมชาติแบบทะเลภูเขา มีอากาศบริสุทธิ์ สภาพภูมิอากาศเย็นสบายตลอดปี และมีเครื่องวัดอุณหภูมิที่ใหญ่ที่สุดในประเทศไทย",
     "coordinates": {
       "lat": 16.897829,
@@ -1306,8 +1306,8 @@
     ],
     "galleryImages": [
       "/images/places/phetchabun-31.jpg",
-      "/images/places/phetchabun-11.jpg",
-      "/images/places/phetchabun-43.jpg"
+      "/images/places/phetchabun-63.jpg",
+      "/images/places/phetchabun-36.jpg"
     ]
   },
   {
@@ -1349,7 +1349,7 @@
     ],
     "galleryImages": [
       "/images/places/phetchabun-32.jpg",
-      "/images/places/phetchabun-29.jpg",
+      "/images/places/phetchabun-31.jpg",
       "/images/places/phetchabun-57.jpg"
     ]
   },
@@ -1392,7 +1392,7 @@
     "galleryImages": [
       "/images/places/phetchabun-33.jpg",
       "/images/places/phetchabun-57.jpg",
-      "/images/places/phetchabun-11.jpg"
+      "/images/places/phetchabun-36.jpg"
     ]
   },
   {
@@ -1434,8 +1434,8 @@
     ],
     "galleryImages": [
       "/images/places/phetchabun-34.jpg",
-      "/images/places/phetchabun-28.jpg",
-      "/images/places/phetchabun-47.jpg"
+      "/images/places/phetchabun-31.jpg",
+      "/images/places/phetchabun-57.jpg"
     ]
   },
   {
@@ -1476,8 +1476,8 @@
     ],
     "galleryImages": [
       "/images/places/phetchabun-35.jpg",
-      "/images/places/phetchabun-62.jpg",
-      "/images/places/phetchabun-7.jpg"
+      "/images/places/phetchabun-27.jpg",
+      "/images/places/phetchabun-31.jpg"
     ]
   },
   {
@@ -1517,8 +1517,8 @@
     ],
     "galleryImages": [
       "/images/places/phetchabun-36.jpg",
-      "/images/places/phetchabun-10.jpg",
-      "/images/places/phetchabun-9.jpg"
+      "/images/places/phetchabun-29.jpg",
+      "/images/places/phetchabun-48.jpg"
     ]
   },
   {
@@ -1559,8 +1559,8 @@
     ],
     "galleryImages": [
       "/images/places/phetchabun-37.jpg",
-      "/images/places/phetchabun-7.jpg",
-      "/images/places/phetchabun-30.jpg"
+      "/images/places/phetchabun-29.jpg",
+      "/images/places/phetchabun-48.jpg"
     ]
   },
   {
@@ -1601,8 +1601,8 @@
     ],
     "galleryImages": [
       "/images/places/phetchabun-38.jpg",
-      "/images/places/phetchabun-9.jpg",
-      "/images/places/phetchabun-60.jpg"
+      "/images/places/phetchabun-47.jpg",
+      "/images/places/phetchabun-5.jpg"
     ]
   },
   {
@@ -1643,8 +1643,8 @@
     ],
     "galleryImages": [
       "/images/places/phetchabun-39.jpg",
-      "/images/places/phetchabun-30.jpg",
-      "/images/places/phetchabun-27.jpg"
+      "/images/places/phetchabun-47.jpg",
+      "/images/places/phetchabun-5.jpg"
     ]
   },
   {
@@ -1688,8 +1688,8 @@
     ],
     "galleryImages": [
       "/images/places/phetchabun-40.jpg",
-      "/images/places/phetchabun-57.jpg",
-      "/images/places/phetchabun-11.jpg"
+      "/images/places/phetchabun-36.jpg",
+      "/images/places/phetchabun-25.jpg"
     ]
   },
   {
@@ -1730,8 +1730,8 @@
     ],
     "galleryImages": [
       "/images/places/phetchabun-41.jpg",
-      "/images/places/phetchabun-29.jpg",
-      "/images/places/phetchabun-51.jpg"
+      "/images/places/phetchabun-5.jpg",
+      "/images/places/phetchabun-42.jpg"
     ]
   },
   {
@@ -1774,8 +1774,8 @@
     ],
     "galleryImages": [
       "/images/places/phetchabun-42.jpg",
-      "/images/places/phetchabun-11.jpg",
-      "/images/places/phetchabun-63.jpg"
+      "/images/places/phetchabun-43.jpg",
+      "/images/places/phetchabun-28.jpg"
     ]
   },
   {
@@ -1816,8 +1816,8 @@
     ],
     "galleryImages": [
       "/images/places/phetchabun-43.jpg",
-      "/images/places/phetchabun-42.jpg",
-      "/images/places/phetchabun-27.jpg"
+      "/images/places/phetchabun-63.jpg",
+      "/images/places/phetchabun-29.jpg"
     ]
   },
   {
@@ -1858,8 +1858,8 @@
     ],
     "galleryImages": [
       "/images/places/phetchabun-44.jpg",
-      "/images/places/phetchabun-57.jpg",
-      "/images/places/phetchabun-11.jpg"
+      "/images/places/phetchabun-42.jpg",
+      "/images/places/phetchabun-27.jpg"
     ]
   },
   {
@@ -1900,8 +1900,8 @@
     ],
     "galleryImages": [
       "/images/places/phetchabun-45.jpg",
-      "/images/places/phetchabun-5.jpg",
-      "/images/places/phetchabun-42.jpg"
+      "/images/places/phetchabun-43.jpg",
+      "/images/places/phetchabun-28.jpg"
     ]
   },
   {
@@ -1942,8 +1942,8 @@
     ],
     "galleryImages": [
       "/images/places/phetchabun-46.jpg",
-      "/images/places/phetchabun-57.jpg",
-      "/images/places/phetchabun-11.jpg"
+      "/images/places/phetchabun-43.jpg",
+      "/images/places/phetchabun-38.jpg"
     ]
   },
   {
@@ -1984,8 +1984,8 @@
     ],
     "galleryImages": [
       "/images/places/phetchabun-47.jpg",
-      "/images/places/phetchabun-11.jpg",
-      "/images/places/phetchabun-43.jpg"
+      "/images/places/phetchabun-14.jpg",
+      "/images/places/phetchabun-63.jpg"
     ]
   },
   {
@@ -2028,8 +2028,8 @@
     ],
     "galleryImages": [
       "/images/places/phetchabun-48.jpg",
-      "/images/places/phetchabun-47.jpg",
-      "/images/places/phetchabun-57.jpg"
+      "/images/places/phetchabun-42.jpg",
+      "/images/places/phetchabun-40.jpg"
     ]
   },
   {
@@ -2037,8 +2037,8 @@
     "name": "ยอดผาตัด เขาค้อ",
     "district": "เขาค้อ",
     "provinceId": "phetchabun",
-    "category": "temple_culture",
-    "categoryLabel": "วัด & ศาสนสถาน",
+    "category": "mountain_view",
+    "categoryLabel": "ยอดดอย & ทะเลหมอก",
     "description": "ยอดเขาที่สูงที่สุดของเขาค้อ เส้นทางผจญภัยยอดนิยมของสายออฟโรด วิวด้านบนกว้างไกลสุดลูกหูลูกตา มองเห็นทะเลหมอกห่มคลุมวัดพระธาตุผาซ่อนแก้วยามเช้า",
     "coordinates": {
       "lat": 16.80092,
@@ -2070,8 +2070,8 @@
     ],
     "galleryImages": [
       "/images/places/phetchabun-49.jpg",
-      "/images/places/phetchabun-42.jpg",
-      "/images/places/phetchabun-63.jpg"
+      "/images/places/phetchabun-11.jpg",
+      "/images/places/phetchabun-43.jpg"
     ]
   },
   {
@@ -2113,8 +2113,8 @@
     ],
     "galleryImages": [
       "/images/places/phetchabun-50.jpg",
-      "/images/places/phetchabun-47.jpg",
-      "/images/places/phetchabun-5.jpg"
+      "/images/places/phetchabun-51.jpg",
+      "/images/places/phetchabun-27.jpg"
     ]
   },
   {
@@ -2157,8 +2157,8 @@
     ],
     "galleryImages": [
       "/images/places/phetchabun-51.jpg",
-      "/images/places/phetchabun-43.jpg",
-      "/images/places/phetchabun-8.jpg"
+      "/images/places/phetchabun-50.jpg",
+      "/images/places/phetchabun-28.jpg"
     ]
   },
   {
@@ -2200,8 +2200,8 @@
     ],
     "galleryImages": [
       "/images/places/phetchabun-52.jpg",
-      "/images/places/phetchabun-5.jpg",
-      "/images/places/phetchabun-42.jpg"
+      "/images/places/phetchabun-51.jpg",
+      "/images/places/phetchabun-54.jpg"
     ]
   },
   {
@@ -2242,8 +2242,8 @@
     ],
     "galleryImages": [
       "/images/places/phetchabun-53.jpg",
-      "/images/places/phetchabun-47.jpg",
-      "/images/places/phetchabun-57.jpg"
+      "/images/places/phetchabun-57.jpg",
+      "/images/places/phetchabun-36.jpg"
     ]
   },
   {
@@ -2285,8 +2285,8 @@
     ],
     "galleryImages": [
       "/images/places/phetchabun-54.jpg",
-      "/images/places/phetchabun-42.jpg",
-      "/images/places/phetchabun-63.jpg"
+      "/images/places/phetchabun-28.jpg",
+      "/images/places/phetchabun-47.jpg"
     ]
   },
   {
@@ -2327,8 +2327,8 @@
     ],
     "galleryImages": [
       "/images/places/phetchabun-55.jpg",
-      "/images/places/phetchabun-28.jpg",
-      "/images/places/phetchabun-47.jpg"
+      "/images/places/phetchabun-5.jpg",
+      "/images/places/phetchabun-42.jpg"
     ]
   },
   {
@@ -2369,8 +2369,8 @@
     ],
     "galleryImages": [
       "/images/places/phetchabun-56.jpg",
-      "/images/places/phetchabun-30.jpg",
-      "/images/places/phetchabun-27.jpg"
+      "/images/places/phetchabun-10.jpg",
+      "/images/places/phetchabun-12.jpg"
     ]
   },
   {
@@ -2412,8 +2412,8 @@
     ],
     "galleryImages": [
       "/images/places/phetchabun-57.jpg",
-      "/images/places/phetchabun-11.jpg",
-      "/images/places/phetchabun-43.jpg"
+      "/images/places/phetchabun-61.jpg",
+      "/images/places/phetchabun-29.jpg"
     ]
   },
   {
@@ -2454,8 +2454,8 @@
     ],
     "galleryImages": [
       "/images/places/phetchabun-58.jpg",
-      "/images/places/phetchabun-42.jpg",
-      "/images/places/phetchabun-63.jpg"
+      "/images/places/phetchabun-24.jpg",
+      "/images/places/phetchabun-5.jpg"
     ]
   },
   {
@@ -2463,8 +2463,8 @@
     "name": "พระตำหนักเขาค้อ",
     "district": "เขาค้อ",
     "provinceId": "phetchabun",
-    "category": "nature_park",
-    "categoryLabel": "อุทยาน น้ำตก & ถ้ำ",
+    "category": "heritage_history",
+    "categoryLabel": "มรดกโลก & ประวัติศาสตร์",
     "description": "พระตำหนักที่ประทับแรมบนยอดเขาสูง 1,290 เมตร โอบล้อมด้วยป่าสนและสวนดอกไม้เมืองหนาวหลากสีสัน อากาศหนาวเย็นตลอดปี มองเห็นทิวเขาค้อได้รอบทิศ",
     "coordinates": {
       "lat": 16.5530175,
@@ -2497,7 +2497,7 @@
     "galleryImages": [
       "/images/places/phetchabun-59.jpg",
       "/images/places/phetchabun-43.jpg",
-      "/images/places/phetchabun-27.jpg"
+      "/images/places/phetchabun-38.jpg"
     ]
   },
   {
@@ -2538,8 +2538,8 @@
     ],
     "galleryImages": [
       "/images/places/phetchabun-60.jpg",
-      "/images/places/phetchabun-5.jpg",
-      "/images/places/phetchabun-42.jpg"
+      "/images/places/phetchabun-26.jpg",
+      "/images/places/phetchabun-28.jpg"
     ]
   },
   {
@@ -2580,8 +2580,8 @@
     ],
     "galleryImages": [
       "/images/places/phetchabun-61.jpg",
-      "/images/places/phetchabun-11.jpg",
-      "/images/places/phetchabun-43.jpg"
+      "/images/places/phetchabun-2.jpg",
+      "/images/places/phetchabun-27.jpg"
     ]
   },
   {
@@ -2625,8 +2625,8 @@
     ],
     "galleryImages": [
       "/images/places/phetchabun-62.jpg",
-      "/images/places/phetchabun-42.jpg",
-      "/images/places/phetchabun-63.jpg"
+      "/images/places/phetchabun-31.jpg",
+      "/images/places/phetchabun-57.jpg"
     ]
   },
   {
@@ -2667,8 +2667,8 @@
     ],
     "galleryImages": [
       "/images/places/phetchabun-63.jpg",
-      "/images/places/phetchabun-42.jpg",
-      "/images/places/phetchabun-27.jpg"
+      "/images/places/phetchabun-27.jpg",
+      "/images/places/phetchabun-31.jpg"
     ]
   },
   {
@@ -2709,8 +2709,8 @@
     ],
     "galleryImages": [
       "/images/places/phetchabun-64.jpg",
-      "/images/places/phetchabun-63.jpg",
-      "/images/places/phetchabun-38.jpg"
+      "/images/places/phetchabun-2.jpg",
+      "/images/places/phetchabun-61.jpg"
     ]
   },
   {
@@ -2751,8 +2751,8 @@
     ],
     "galleryImages": [
       "/images/places/phetchabun-65.jpg",
-      "/images/places/phetchabun-51.jpg",
-      "/images/places/phetchabun-5.jpg"
+      "/images/places/phetchabun-43.jpg",
+      "/images/places/phetchabun-28.jpg"
     ]
   },
   {
@@ -2793,8 +2793,8 @@
     ],
     "galleryImages": [
       "/images/places/phetchabun-66.jpg",
-      "/images/places/phetchabun-57.jpg",
-      "/images/places/phetchabun-11.jpg"
+      "/images/places/phetchabun-63.jpg",
+      "/images/places/phetchabun-29.jpg"
     ]
   },
   {
@@ -2835,8 +2835,8 @@
     ],
     "galleryImages": [
       "/images/places/phetchabun-67.jpg",
-      "/images/places/phetchabun-5.jpg",
-      "/images/places/phetchabun-42.jpg"
+      "/images/places/phetchabun-27.jpg",
+      "/images/places/phetchabun-31.jpg"
     ]
   }
 ]
