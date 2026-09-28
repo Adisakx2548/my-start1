@@ -1,0 +1,404 @@
+{
+  "phetchabun-1": {
+    "name": "น้ำตกธาราเอราวัณ",
+    "district": "เมืองเพชรบูรณ์",
+    "imgUrl": null,
+    "found": false
+  },
+  "phetchabun-2": {
+    "name": "หอวัฒนธรรมนครบาลเพชรบูรณ์",
+    "district": "เมืองเพชรบูรณ์",
+    "imgUrl": null,
+    "found": false
+  },
+  "phetchabun-3": {
+    "name": "อ่างเก็บน้ำห้วยป่าแดง",
+    "district": "เมืองเพชรบูรณ์",
+    "imgUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/PhetDaeng3.jpg/1280px-PhetDaeng3.jpg?utm_source=th.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "found": true
+  },
+  "phetchabun-4": {
+    "name": "สวนสาธารณะหนองนารี",
+    "district": "เมืองเพชรบูรณ์",
+    "imgUrl": null,
+    "found": false
+  },
+  "phetchabun-5": {
+    "name": "อุทยานแห่งชาติตาดหมอก",
+    "district": "เมืองเพชรบูรณ์",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Thailand_099.jpg?utm_source=th.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "found": true
+  },
+  "phetchabun-6": {
+    "name": "วัดพระแก้ว",
+    "district": "เมืองเพชรบูรณ์",
+    "imgUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Wat_Pha_Sorn_Kaew_09.jpg/1280px-Wat_Pha_Sorn_Kaew_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "found": true
+  },
+  "phetchabun-7": {
+    "name": "วัดไตรภูมิ",
+    "district": "เมืองเพชรบูรณ์",
+    "imgUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/%E0%B8%A3%E0%B8%B1%E0%B8%8F%E0%B8%90%E0%B8%A4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C.JPG/1280px-%E0%B8%A3%E0%B8%B1%E0%B8%8F%E0%B8%90%E0%B8%A4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "found": true
+  },
+  "phetchabun-8": {
+    "name": "ไร่กำนันจุล",
+    "district": "เมืองเพชรบูรณ์",
+    "imgUrl": null,
+    "found": false
+  },
+  "phetchabun-9": {
+    "name": "วัดมหาธาตุ",
+    "district": "เมืองเพชรบูรณ์",
+    "imgUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Wat_Mahathat_-_Luang_Prabang_20110415-40.JPG/1280px-Wat_Mahathat_-_Luang_Prabang_20110415-40.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "found": true
+  },
+  "phetchabun-10": {
+    "name": "พุทธอุทยานเพชบุระ",
+    "district": "เมืองเพชรบูรณ์",
+    "imgUrl": null,
+    "found": false
+  },
+  "phetchabun-11": {
+    "name": "น้ำตกตาดหมอก (อุทยานแห่งชาติตาดหมอก)",
+    "district": "เมืองเพชรบูรณ์",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Thailand_099.jpg?utm_source=th.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "found": true
+  },
+  "phetchabun-12": {
+    "name": "วัดช้างเผือก",
+    "district": "เมืองเพชรบูรณ์",
+    "imgUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B9%80%E0%B8%88%E0%B9%87%E0%B8%94%E0%B8%A2%E0%B8%AD%E0%B8%94_%E0%B8%8A%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%9C%E0%B8%B7%E0%B8%AD%E0%B8%81_%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88.JPG/1280px-%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B9%80%E0%B8%88%E0%B9%87%E0%B8%94%E0%B8%A2%E0%B8%AD%E0%B8%94_%E0%B8%8A%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%9C%E0%B8%B7%E0%B8%AD%E0%B8%81_%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "found": true
+  },
+  "phetchabun-13": {
+    "name": "ศาลเจ้าพ่อหลักเมืองเพชรบูรณ์",
+    "district": "เมืองเพชรบูรณ์",
+    "imgUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/%E0%B8%A8%E0%B8%B2%E0%B8%A5%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3%E0%B8%9A%E0%B8%B9%E0%B8%A3%E0%B8%93%E0%B9%8C.jpg/1280px-%E0%B8%A8%E0%B8%B2%E0%B8%A5%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3%E0%B8%9A%E0%B8%B9%E0%B8%A3%E0%B8%93%E0%B9%8C.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "found": true
+  },
+  "phetchabun-14": {
+    "name": "น้ำตกวังหินหอ หรือ น้ำตกสไลเดอร์",
+    "district": "เมืองเพชรบูรณ์",
+    "imgUrl": null,
+    "found": false
+  },
+  "phetchabun-15": {
+    "name": "น้ำตกแสนสมบูรณ์",
+    "district": "ชนแดน",
+    "imgUrl": null,
+    "found": false
+  },
+  "phetchabun-16": {
+    "name": "ภูเขาหินปะการัง",
+    "district": "ชนแดน",
+    "imgUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Sap_Phutsa%2C_Chon_Daen_District%2C_Phetchabun%2C_Thailand_-_panoramio.jpg/1280px-Sap_Phutsa%2C_Chon_Daen_District%2C_Phetchabun%2C_Thailand_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "found": true
+  },
+  "phetchabun-17": {
+    "name": "อ่างเก็บน้ำกุฏิพระ",
+    "district": "ชนแดน",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/3/32/Amphoe_Phetchabun.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "found": true
+  },
+  "phetchabun-18": {
+    "name": "วัดพระพุทธบาทชนแดน",
+    "district": "ชนแดน",
+    "imgUrl": null,
+    "found": false
+  },
+  "phetchabun-19": {
+    "name": "พิพิธภัณฑ์หล่มศักดิ์",
+    "district": "หล่มสัก",
+    "imgUrl": null,
+    "found": false
+  },
+  "phetchabun-20": {
+    "name": "อ่างเก็บน้ำห้วยน้ำชุน",
+    "district": "หล่มสัก",
+    "imgUrl": null,
+    "found": false
+  },
+  "phetchabun-21": {
+    "name": "อนุสรณ์สถานเมืองราด",
+    "district": "หล่มสัก",
+    "imgUrl": null,
+    "found": false
+  },
+  "phetchabun-22": {
+    "name": "ถ้ำสมบัติ",
+    "district": "หล่มสัก",
+    "imgUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B9%80%E0%B8%82%E0%B8%B2%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B9%84%E0%B8%94%E0%B8%AD%E0%B8%B4%E0%B8%90_%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5_03.JPG/1280px-%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B9%80%E0%B8%82%E0%B8%B2%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B9%84%E0%B8%94%E0%B8%AD%E0%B8%B4%E0%B8%90_%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5_03.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "found": true
+  },
+  "phetchabun-23": {
+    "name": "วนอุทยานน้ำตกธารทิพย์ (น้ำตกธารทิพย์)",
+    "district": "หล่มสัก",
+    "imgUrl": null,
+    "found": false
+  },
+  "phetchabun-24": {
+    "name": "อนุสาวรีย์พ่อขุนผาเมือง",
+    "district": "หล่มสัก",
+    "imgUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Sri_Indraditya_%26_Pha_Mueang_%28Wat_Bot_Mueang_Bang_Khlang%29_%282026%29_-_img_02.jpg/1280px-Sri_Indraditya_%26_Pha_Mueang_%28Wat_Bot_Mueang_Bang_Khlang%29_%282026%29_-_img_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "found": true
+  },
+  "phetchabun-25": {
+    "name": "ศาลหลักเมืองนครบาลเพชรบูรณ์",
+    "district": "หล่มสัก",
+    "imgUrl": null,
+    "found": false
+  },
+  "phetchabun-26": {
+    "name": "หลวงพ่อใหญ่วัดตาล",
+    "district": "หล่มเก่า",
+    "imgUrl": null,
+    "found": false
+  },
+  "phetchabun-27": {
+    "name": "ภูทับเบิก ดอยกะหล่ำปลีในสายหมอก",
+    "district": "หล่มเก่า",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5f/%E0%B8%A0%E0%B8%B9%E0%B8%97%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B8%81.jpg?utm_source=th.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "found": true
+  },
+  "phetchabun-28": {
+    "name": "ภูลมโล หรือ ภูลงรู",
+    "district": "หล่มเก่า",
+    "imgUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Phu_Lom_Lo%2C_Phu_Hin_Rong_Kra_National_Park.jpg/1280px-Phu_Lom_Lo%2C_Phu_Hin_Rong_Kra_National_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "found": true
+  },
+  "phetchabun-29": {
+    "name": "ภูแผงม้า",
+    "district": "หล่มเก่า",
+    "imgUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/%E0%B8%A0%E0%B8%B9%E0%B9%81%E0%B8%9C%E0%B8%87%E0%B8%A1%E0%B9%89%E0%B8%B2_%E0%B8%AD%E0%B8%B8%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4%E0%B8%A0%E0%B8%B9%E0%B8%AB%E0%B8%B4%E0%B8%99%E0%B8%A3%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%B2.jpg/1280px-%E0%B8%A0%E0%B8%B9%E0%B9%81%E0%B8%9C%E0%B8%87%E0%B8%A1%E0%B9%89%E0%B8%B2_%E0%B8%AD%E0%B8%B8%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4%E0%B8%A0%E0%B8%B9%E0%B8%AB%E0%B8%B4%E0%B8%99%E0%B8%A3%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%B2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "found": true
+  },
+  "phetchabun-30": {
+    "name": "จิตรกรรมฝาผนังวัดนาทราย (วัดศรีมงคล)",
+    "district": "หล่มเก่า",
+    "imgUrl": null,
+    "found": false
+  },
+  "phetchabun-31": {
+    "name": "ภูทับเบิก (จุดชมวิวสูงสุด 1,768 ม.)",
+    "district": "หล่มเก่า",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5f/%E0%B8%A0%E0%B8%B9%E0%B8%97%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B8%81.jpg?utm_source=th.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "found": true
+  },
+  "phetchabun-32": {
+    "name": "สวนสาธารณะพุน้ำร้อน บ้านพุเตย",
+    "district": "วิเชียรบุรี",
+    "imgUrl": null,
+    "found": false
+  },
+  "phetchabun-33": {
+    "name": "สุสานหอย 15 ล้านปี",
+    "district": "วิเชียรบุรี",
+    "imgUrl": null,
+    "found": false
+  },
+  "phetchabun-34": {
+    "name": "บ่อน้ำพุร้อนบ้านพุขาม",
+    "district": "วิเชียรบุรี",
+    "imgUrl": null,
+    "found": false
+  },
+  "phetchabun-35": {
+    "name": "ศาลสมเด็จพระนเรศวร",
+    "district": "วิเชียรบุรี",
+    "imgUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88%E0%B8%8A%E0%B8%B1%E0%B8%A2%E0%B8%A1%E0%B8%87%E0%B8%84%E0%B8%A5_%E0%B8%AD%E0%B8%B3%E0%B9%80%E0%B8%A0%E0%B8%AD%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%AD%E0%B8%A2%E0%B8%B8%E0%B8%98%E0%B8%A2%E0%B8%B2_%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%AD%E0%B8%A2%E0%B8%B8%E0%B8%98%E0%B8%A2%E0%B8%B2.JPG/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "found": true
+  },
+  "phetchabun-36": {
+    "name": "ปรางค์ศรีเทพ (อุทยานประวัติศาสตร์ศรีเทพ)",
+    "district": "ศรีเทพ",
+    "imgUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Prang_Reussi-pano.jpg/1280px-Prang_Reussi-pano.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "found": true
+  },
+  "phetchabun-37": {
+    "name": "โบราณสถานเขาคลังใน (อุทยานประวัติศาสตร์ศรีเทพ)",
+    "district": "ศรีเทพ",
+    "imgUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/%E0%B8%99%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%A3%E0%B8%93%E0%B9%8C_%E0%B8%88%E0%B8%B2%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%A7%E0%B8%93%E0%B8%B4%E0%B8%8A_%E0%B8%A3%E0%B8%B1%E0%B8%90%E0%B8%A1%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%B5%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%A3%E0%B8%A7%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%A5%E0%B8%B1%E0%B8%87_%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%A3_-_Flickr_-_Abhisit_Vejjajiva.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "found": true
+  },
+  "phetchabun-38": {
+    "name": "โบราณสถานเขาคลังนอก (อุทยานประวัติศาสตร์ศรีเทพ)",
+    "district": "ศรีเทพ",
+    "imgUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Khao_Khlang_Nak-003.jpg/1280px-Khao_Khlang_Nak-003.jpg?utm_source=th.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "found": true
+  },
+  "phetchabun-39": {
+    "name": "เขาถมอรัตน์",
+    "district": "ศรีเทพ",
+    "imgUrl": null,
+    "found": false
+  },
+  "phetchabun-40": {
+    "name": "อุทยานประวัติศาสตร์ศรีเทพ (มรดกโลก UNESCO)",
+    "district": "ศรีเทพ",
+    "imgUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Khao_Khlang_Nak-004.jpg/1280px-Khao_Khlang_Nak-004.jpg?utm_source=th.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "found": true
+  },
+  "phetchabun-41": {
+    "name": "บึงสามพัน",
+    "district": "บึงสามพัน",
+    "imgUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Nong_Chaeng%2C_Bueng_Sam_Phan_District%2C_Phetchabun%2C_Thailand_-_panoramio.jpg/1280px-Nong_Chaeng%2C_Bueng_Sam_Phan_District%2C_Phetchabun%2C_Thailand_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "found": true
+  },
+  "phetchabun-42": {
+    "name": "อุทยานแห่งชาติน้ำหนาว",
+    "district": "น้ำหนาว",
+    "imgUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Beauty_and_peaceful.jpg/1280px-Beauty_and_peaceful.jpg?utm_source=th.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "found": true
+  },
+  "phetchabun-43": {
+    "name": "น้ำตกเหวทราย",
+    "district": "น้ำหนาว",
+    "imgUrl": null,
+    "found": false
+  },
+  "phetchabun-44": {
+    "name": "ป่าเปลี่ยนสี (อุทยานแห่งชาติน้ำหนาว)",
+    "district": "น้ำหนาว",
+    "imgUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/%E0%B8%9C%E0%B8%B7%E0%B8%99%E0%B8%9B%E0%B9%88%E0%B8%B2%E0%B8%A0%E0%B8%B9%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B6%E0%B8%87.jpg/1280px-%E0%B8%9C%E0%B8%B7%E0%B8%99%E0%B8%9B%E0%B9%88%E0%B8%B2%E0%B8%A0%E0%B8%B9%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B6%E0%B8%87.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "found": true
+  },
+  "phetchabun-45": {
+    "name": "ถ้ำใหญ่น้ำหนาว (ภูน้ำริน)",
+    "district": "น้ำหนาว",
+    "imgUrl": null,
+    "found": false
+  },
+  "phetchabun-46": {
+    "name": "ถ้ำผาหงษ์ จุดชมพระอาทิตย์ตก",
+    "district": "น้ำหนาว",
+    "imgUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/%E0%B8%AD%E0%B8%B8%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%AB%E0%B8%99%E0%B8%B2%E0%B8%A7.jpg/1280px-%E0%B8%AD%E0%B8%B8%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%AB%E0%B8%99%E0%B8%B2%E0%B8%A7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "found": true
+  },
+  "phetchabun-47": {
+    "name": "จุดชมพระอาทิตย์ขึ้นภูค้อ",
+    "district": "น้ำหนาว",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5f/%E0%B8%A0%E0%B8%B9%E0%B8%97%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B8%81.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "found": true
+  },
+  "phetchabun-48": {
+    "name": "จุดชมวิวเขาตะเคียนโง๊ะ",
+    "district": "เขาค้อ",
+    "imgUrl": null,
+    "found": false
+  },
+  "phetchabun-49": {
+    "name": "ยอดผาตัด เขาค้อ",
+    "district": "เขาค้อ",
+    "imgUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87_%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%81%E0%B8%AA%E0%B8%99_%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%AB%E0%B9%8C%E0%B9%91_%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%81%E0%B8%AA%E0%B8%99.jpg/1280px-%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87_%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%81%E0%B8%AA%E0%B8%99_%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%AB%E0%B9%8C%E0%B9%91_%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%81%E0%B8%AA%E0%B8%99.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "found": true
+  },
+  "phetchabun-50": {
+    "name": "ไร่กาแฟจ่านรินทร์ เขาค้อ",
+    "district": "เขาค้อ",
+    "imgUrl": null,
+    "found": false
+  },
+  "phetchabun-51": {
+    "name": "ทุ่งกังหันลม เขาค้อ",
+    "district": "เขาค้อ",
+    "imgUrl": null,
+    "found": false
+  },
+  "phetchabun-52": {
+    "name": "สวนสัตว์ไดโนเสาร์ เขาค้อ",
+    "district": "เขาค้อ",
+    "imgUrl": null,
+    "found": false
+  },
+  "phetchabun-53": {
+    "name": "อุทยานแห่งชาติทุ่งแสลงหลวง (หนองแม่นา)",
+    "district": "เขาค้อ",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/KaengSophaBelow.jpg?utm_source=th.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "found": true
+  },
+  "phetchabun-54": {
+    "name": "ไร่ บี เอ็น",
+    "district": "เขาค้อ",
+    "imgUrl": null,
+    "found": false
+  },
+  "phetchabun-55": {
+    "name": "อุทยานแห่งชาติเขาค้อ",
+    "district": "เขาค้อ",
+    "imgUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Khaokor07.jpg/1280px-Khaokor07.jpg?utm_source=th.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "found": true
+  },
+  "phetchabun-56": {
+    "name": "หอสมุดนานาชาติเขาค้อ",
+    "district": "เขาค้อ",
+    "imgUrl": null,
+    "found": false
+  },
+  "phetchabun-57": {
+    "name": "อ่างเก็บน้ำรัตนัย",
+    "district": "เขาค้อ",
+    "imgUrl": null,
+    "found": false
+  },
+  "phetchabun-58": {
+    "name": "แก่งบางระจัน",
+    "district": "เขาค้อ",
+    "imgUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/%E0%B9%81%E0%B8%81%E0%B9%88%E0%B8%87%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%A3%E0%B8%B0%E0%B8%88%E0%B8%B1%E0%B8%99_%E0%B8%97%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B9%81%E0%B8%AA%E0%B8%A5%E0%B8%87%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87.JPG/1280px-%E0%B9%81%E0%B8%81%E0%B9%88%E0%B8%87%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%A3%E0%B8%B0%E0%B8%88%E0%B8%B1%E0%B8%99_%E0%B8%97%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B9%81%E0%B8%AA%E0%B8%A5%E0%B8%87%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "found": true
+  },
+  "phetchabun-59": {
+    "name": "พระตำหนักเขาค้อ",
+    "district": "เขาค้อ",
+    "imgUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%95%E0%B8%B3%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%82%E0%B8%B2%E0%B8%84%E0%B9%89%E0%B8%AD_Khao_Kho_Palace_-_panoramio.jpg/1280px-%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%95%E0%B8%B3%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%82%E0%B8%B2%E0%B8%84%E0%B9%89%E0%B8%AD_Khao_Kho_Palace_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "found": true
+  },
+  "phetchabun-60": {
+    "name": "พระบรมธาตุเจดีย์กาญจนาภิเษก",
+    "district": "เขาค้อ",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%A3%E0%B8%A1%E0%B8%98%E0%B8%B2%E0%B8%95%E0%B8%B8%E0%B9%80%E0%B8%88%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B9%8C%E0%B8%81%E0%B8%B2%E0%B8%8D%E0%B8%88%E0%B8%99%E0%B8%B2%E0%B8%A0%E0%B8%B4%E0%B9%80%E0%B8%A9%E0%B8%81_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "found": true
+  },
+  "phetchabun-61": {
+    "name": "อนุสรณ์ผู้เสียสละเขาค้อ",
+    "district": "เขาค้อ",
+    "imgUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%AA%E0%B8%A3%E0%B8%93%E0%B9%8C%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B8%A2%E0%B8%AA%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%82%E0%B8%B2%E0%B8%84%E0%B9%89%E0%B8%AD.jpg/1280px-%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%AA%E0%B8%A3%E0%B8%93%E0%B9%8C%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B8%A2%E0%B8%AA%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%82%E0%B8%B2%E0%B8%84%E0%B9%89%E0%B8%AD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "found": true
+  },
+  "phetchabun-62": {
+    "name": "วัดพระธาตุผาซ่อนแก้ว",
+    "district": "เขาค้อ",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/6/62/%E0%B8%9C%E0%B8%B2%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7.jpg?utm_source=th.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "found": true
+  },
+  "phetchabun-63": {
+    "name": "น้ำตกศรีดิษฐ์",
+    "district": "เขาค้อ",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/2/25/Thailand_421.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "found": true
+  },
+  "phetchabun-64": {
+    "name": "ฐานอิทธิ (พิพิธภัณฑ์อาวุธ เขาค้อ)",
+    "district": "เขาค้อ",
+    "imgUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/%E0%B8%9E%E0%B8%B4%E0%B8%9E%E0%B8%B4%E0%B8%98%E0%B8%A0%E0%B8%B1%E0%B8%93%E0%B8%91%E0%B9%8C%E0%B8%AD%E0%B8%B2%E0%B8%A7%E0%B8%B8%E0%B8%98%E0%B8%90%E0%B8%B2%E0%B8%99%E0%B8%AD%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4_%E0%B8%AD%E0%B8%B8%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4%E0%B9%80%E0%B8%82%E0%B8%B2%E0%B8%84%E0%B9%89%E0%B8%AD_%283%29.jpg/1280px-%E0%B8%9E%E0%B8%B4%E0%B8%9E%E0%B8%B4%E0%B8%98%E0%B8%A0%E0%B8%B1%E0%B8%93%E0%B8%91%E0%B9%8C%E0%B8%AD%E0%B8%B2%E0%B8%A7%E0%B8%B8%E0%B8%98%E0%B8%90%E0%B8%B2%E0%B8%99%E0%B8%AD%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4_%E0%B8%AD%E0%B8%B8%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4%E0%B9%80%E0%B8%82%E0%B8%B2%E0%B8%84%E0%B9%89%E0%B8%AD_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "found": true
+  },
+  "phetchabun-65": {
+    "name": "แก่งวังน้ำเย็น",
+    "district": "เขาค้อ",
+    "imgUrl": null,
+    "found": false
+  },
+  "phetchabun-66": {
+    "name": "ทุ่งนางพญา",
+    "district": "เขาค้อ",
+    "imgUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B8%AD%E0%B8%A3%E0%B8%B8%E0%B8%93%E0%B8%97%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B9%81%E0%B8%AA%E0%B8%A5%E0%B8%87%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87_%28Golden_Light_of_Thung_Salaeng_Luang%29.jpg/1280px-%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B8%AD%E0%B8%A3%E0%B8%B8%E0%B8%93%E0%B8%97%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B9%81%E0%B8%AA%E0%B8%A5%E0%B8%87%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87_%28Golden_Light_of_Thung_Salaeng_Luang%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "found": true
+  },
+  "phetchabun-67": {
+    "name": "ถ้ำผาโค้ง",
+    "district": "วังโป่ง",
+    "imgUrl": null,
+    "found": false
+  }
+}

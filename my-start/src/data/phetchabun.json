@@ -11,7 +11,7 @@
       "lat": 16.354028,
       "lng": 101.26635
     },
-    "imageUrl": "https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&w=1000&q=80",
+    "imageUrl": "/images/places/phetchabun-1.jpg",
     "rating": 4.6,
     "reviewCount": 147,
     "highlights": [
@@ -31,7 +31,7 @@
       "lat": 16.4206,
       "lng": 101.159387
     },
-    "imageUrl": "https://images.unsplash.com/photo-1596402184320-417e7178b2cd?auto=format&fit=crop&w=1000&q=80",
+    "imageUrl": "/images/places/phetchabun-2.jpg",
     "rating": 4.7,
     "reviewCount": 174,
     "highlights": [
@@ -51,7 +51,7 @@
       "lat": 16.44833295,
       "lng": 101.0900344
     },
-    "imageUrl": "https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&w=1000&q=80",
+    "imageUrl": "/images/places/phetchabun-3.jpg",
     "rating": 4.8,
     "reviewCount": 201,
     "highlights": [
@@ -71,7 +71,7 @@
       "lat": 16.4397285,
       "lng": 101.1417416
     },
-    "imageUrl": "https://images.unsplash.com/photo-1528181304800-259b08848526?auto=format&fit=crop&w=1000&q=80",
+    "imageUrl": "/images/places/phetchabun-4.jpg",
     "rating": 4.9,
     "reviewCount": 228,
     "highlights": [
@@ -91,7 +91,7 @@
       "lat": 16.3857063,
       "lng": 101.2681408
     },
-    "imageUrl": "https://images.unsplash.com/photo-1500937386664-56d1dfef3854?auto=format&fit=crop&w=1000&q=80",
+    "imageUrl": "/images/places/phetchabun-5.jpg",
     "rating": 4.5,
     "reviewCount": 255,
     "highlights": [
@@ -111,7 +111,7 @@
       "lat": 16.4201725,
       "lng": 101.1660307
     },
-    "imageUrl": "https://images.unsplash.com/photo-1528181304800-259b08848526?auto=format&fit=crop&w=1000&q=80",
+    "imageUrl": "/images/places/phetchabun-6.jpg",
     "rating": 4.6,
     "reviewCount": 282,
     "highlights": [
@@ -131,7 +131,7 @@
       "lat": 16.42276892,
       "lng": 101.1611223
     },
-    "imageUrl": "https://images.unsplash.com/photo-1528181304800-259b08848526?auto=format&fit=crop&w=1000&q=80",
+    "imageUrl": "/images/places/phetchabun-7.jpg",
     "rating": 4.7,
     "reviewCount": 309,
     "highlights": [
@@ -151,7 +151,7 @@
       "lat": 16.26604,
       "lng": 101.04855
     },
-    "imageUrl": "https://images.unsplash.com/photo-1595974482597-4b8da8879bc5?auto=format&fit=crop&w=1000&q=80",
+    "imageUrl": "/images/places/phetchabun-8.jpg",
     "rating": 4.8,
     "reviewCount": 336,
     "highlights": [
@@ -171,7 +171,7 @@
       "lat": 16.4201,
       "lng": 101.155
     },
-    "imageUrl": "https://images.unsplash.com/photo-1528181304800-259b08848526?auto=format&fit=crop&w=1000&q=80",
+    "imageUrl": "/images/places/phetchabun-9.jpg",
     "rating": 4.9,
     "reviewCount": 363,
     "highlights": [
@@ -191,7 +191,7 @@
       "lat": 16.446388,
       "lng": 101.152778
     },
-    "imageUrl": "https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1000&q=80",
+    "imageUrl": "/images/places/phetchabun-10.jpg",
     "rating": 4.5,
     "reviewCount": 390,
     "highlights": [
@@ -211,7 +211,7 @@
       "lat": 16.3732366,
       "lng": 101.3804509
     },
-    "imageUrl": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?auto=format&fit=crop&w=1000&q=80",
+    "imageUrl": "/images/places/phetchabun-11.jpg",
     "rating": 4.6,
     "reviewCount": 417,
     "highlights": [
@@ -232,7 +232,7 @@
       "lat": 16.2562779,
       "lng": 101.0726238
     },
-    "imageUrl": "https://images.unsplash.com/photo-1528181304800-259b08848526?auto=format&fit=crop&w=1000&q=80",
+    "imageUrl": "/images/places/phetchabun-12.jpg",
     "rating": 4.7,
     "reviewCount": 444,
     "highlights": [
@@ -252,7 +252,7 @@
       "lat": 16.4206661,
       "lng": 101.1599838
     },
-    "imageUrl": "https://images.unsplash.com/photo-1528181304800-259b08848526?auto=format&fit=crop&w=1000&q=80",
+    "imageUrl": "/images/places/phetchabun-13.jpg",
     "rating": 4.8,
     "reviewCount": 471,
     "highlights": [
@@ -272,7 +272,7 @@
       "lat": 16.59736484,
       "lng": 101.0986247
     },
-    "imageUrl": "https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&w=1000&q=80",
+    "imageUrl": "/images/places/phetchabun-14.jpg",
     "rating": 4.9,
     "reviewCount": 498,
     "highlights": [
@@ -292,7 +292,7 @@
       "lat": 16.280583,
       "lng": 100.9384044
     },
-    "imageUrl": "https://images.unsplash.com/photo-1528181304800-259b08848526?auto=format&fit=crop&w=1000&q=80",
+    "imageUrl": "/images/places/phetchabun-15.jpg",
     "rating": 4.5,
     "reviewCount": 525,
     "highlights": [
@@ -312,7 +312,7 @@
       "lat": 16.0662585,
       "lng": 100.8756309
     },
-    "imageUrl": "https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&w=1000&q=80",
+    "imageUrl": "/images/places/phetchabun-16.jpg",
     "rating": 4.6,
     "reviewCount": 552,
     "highlights": [
@@ -332,7 +332,7 @@
       "lat": 16.1730495,
       "lng": 100.8186532
     },
-    "imageUrl": "https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&w=1000&q=80",
+    "imageUrl": "/images/places/phetchabun-17.jpg",
     "rating": 4.7,
     "reviewCount": 579,
     "highlights": [
@@ -352,7 +352,7 @@
       "lat": 16.1889073,
       "lng": 100.8611294
     },
-    "imageUrl": "https://images.unsplash.com/photo-1528181304800-259b08848526?auto=format&fit=crop&w=1000&q=80",
+    "imageUrl": "/images/places/phetchabun-18.jpg",
     "rating": 4.8,
     "reviewCount": 606,
     "highlights": [
@@ -372,7 +372,7 @@
       "lat": 16.7775113,
       "lng": 101.2469582
     },
-    "imageUrl": "https://images.unsplash.com/photo-1528181304800-259b08848526?auto=format&fit=crop&w=1000&q=80",
+    "imageUrl": "/images/places/phetchabun-19.jpg",
     "rating": 4.9,
     "reviewCount": 633,
     "highlights": [
@@ -392,7 +392,7 @@
       "lat": 16.769407,
       "lng": 101.034535
     },
-    "imageUrl": "https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&w=1000&q=80",
+    "imageUrl": "/images/places/phetchabun-20.jpg",
     "rating": 4.5,
     "reviewCount": 660,
     "highlights": [
@@ -412,7 +412,7 @@
       "lat": 16.7617,
       "lng": 101.278
     },
-    "imageUrl": "https://images.unsplash.com/photo-1528181304800-259b08848526?auto=format&fit=crop&w=1000&q=80",
+    "imageUrl": "/images/places/phetchabun-21.jpg",
     "rating": 4.6,
     "reviewCount": 687,
     "highlights": [
@@ -432,7 +432,7 @@
       "lat": 16.6801645,
       "lng": 101.1397221
     },
-    "imageUrl": "https://images.unsplash.com/photo-1508873696983-2df5293cb32f?auto=format&fit=crop&w=1000&q=80",
+    "imageUrl": "/images/places/phetchabun-22.jpg",
     "rating": 4.7,
     "reviewCount": 714,
     "highlights": [
@@ -452,7 +452,7 @@
       "lat": 16.654101,
       "lng": 101.124678
     },
-    "imageUrl": "https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&w=1000&q=80",
+    "imageUrl": "/images/places/phetchabun-23.jpg",
     "rating": 4.8,
     "reviewCount": 741,
     "highlights": [
@@ -472,7 +472,7 @@
       "lat": 16.7533,
       "lng": 101.203
     },
-    "imageUrl": "https://images.unsplash.com/photo-1596402184320-417e7178b2cd?auto=format&fit=crop&w=1000&q=80",
+    "imageUrl": "/images/places/phetchabun-24.jpg",
     "rating": 4.9,
     "reviewCount": 768,
     "highlights": [
@@ -492,7 +492,7 @@
       "lat": 16.6556137,
       "lng": 101.1636231
     },
-    "imageUrl": "https://images.unsplash.com/photo-1528181304800-259b08848526?auto=format&fit=crop&w=1000&q=80",
+    "imageUrl": "/images/places/phetchabun-25.jpg",
     "rating": 4.5,
     "reviewCount": 795,
     "highlights": [
@@ -512,7 +512,7 @@
       "lat": 16.8944472,
       "lng": 101.2201363
     },
-    "imageUrl": "https://images.unsplash.com/photo-1528181304800-259b08848526?auto=format&fit=crop&w=1000&q=80",
+    "imageUrl": "/images/places/phetchabun-26.jpg",
     "rating": 4.6,
     "reviewCount": 822,
     "highlights": [
@@ -532,7 +532,7 @@
       "lat": 16.906389,
       "lng": 101.087222
     },
-    "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1000&q=80",
+    "imageUrl": "/images/places/phetchabun-27.jpg",
     "rating": 4.7,
     "reviewCount": 849,
     "highlights": [
@@ -552,7 +552,7 @@
       "lat": 16.9852778,
       "lng": 101.0758333
     },
-    "imageUrl": "https://images.unsplash.com/photo-1522383225653-ed111181a951?auto=format&fit=crop&w=1000&q=80",
+    "imageUrl": "/images/places/phetchabun-28.jpg",
     "rating": 4.8,
     "reviewCount": 876,
     "highlights": [
@@ -572,7 +572,7 @@
       "lat": 16.8914367,
       "lng": 101.094058
     },
-    "imageUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1000&q=80",
+    "imageUrl": "/images/places/phetchabun-29.jpg",
     "rating": 4.9,
     "reviewCount": 903,
     "highlights": [
@@ -593,7 +593,7 @@
       "lat": 16.896968,
       "lng": 101.2008861
     },
-    "imageUrl": "https://images.unsplash.com/photo-1528181304800-259b08848526?auto=format&fit=crop&w=1000&q=80",
+    "imageUrl": "/images/places/phetchabun-30.jpg",
     "rating": 4.5,
     "reviewCount": 130,
     "highlights": [
@@ -613,7 +613,7 @@
       "lat": 16.897829,
       "lng": 101.106234
     },
-    "imageUrl": "https://images.unsplash.com/photo-1528181304800-259b08848526?auto=format&fit=crop&w=1000&q=80",
+    "imageUrl": "/images/places/phetchabun-31.jpg",
     "rating": 4.6,
     "reviewCount": 157,
     "highlights": [
@@ -633,7 +633,7 @@
       "lat": 15.5770626,
       "lng": 101.0652441
     },
-    "imageUrl": "https://images.unsplash.com/photo-1500937386664-56d1dfef3854?auto=format&fit=crop&w=1000&q=80",
+    "imageUrl": "/images/places/phetchabun-32.jpg",
     "rating": 4.7,
     "reviewCount": 184,
     "highlights": [
@@ -653,7 +653,7 @@
       "lat": 15.827225,
       "lng": 101.226728
     },
-    "imageUrl": "https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&w=1000&q=80",
+    "imageUrl": "/images/places/phetchabun-33.jpg",
     "rating": 4.8,
     "reviewCount": 211,
     "highlights": [
@@ -673,7 +673,7 @@
       "lat": 15.5615482,
       "lng": 101.0495361
     },
-    "imageUrl": "https://images.unsplash.com/photo-1500937386664-56d1dfef3854?auto=format&fit=crop&w=1000&q=80",
+    "imageUrl": "/images/places/phetchabun-34.jpg",
     "rating": 4.9,
     "reviewCount": 238,
     "highlights": [
@@ -693,7 +693,7 @@
       "lat": 15.659338,
       "lng": 101.123356
     },
-    "imageUrl": "https://images.unsplash.com/photo-1528181304800-259b08848526?auto=format&fit=crop&w=1000&q=80",
+    "imageUrl": "/images/places/phetchabun-35.jpg",
     "rating": 4.5,
     "reviewCount": 265,
     "highlights": [
@@ -713,7 +713,7 @@
       "lat": 15.46632,
       "lng": 101.14538
     },
-    "imageUrl": "https://images.unsplash.com/photo-1528181304800-259b08848526?auto=format&fit=crop&w=1000&q=80",
+    "imageUrl": "/images/places/phetchabun-36.jpg",
     "rating": 4.6,
     "reviewCount": 292,
     "highlights": [
@@ -733,7 +733,7 @@
       "lat": 15.4655379,
       "lng": 101.1446354
     },
-    "imageUrl": "https://images.unsplash.com/photo-1528181304800-259b08848526?auto=format&fit=crop&w=1000&q=80",
+    "imageUrl": "/images/places/phetchabun-37.jpg",
     "rating": 4.7,
     "reviewCount": 319,
     "highlights": [
@@ -753,7 +753,7 @@
       "lat": 15.48681,
       "lng": 101.14481
     },
-    "imageUrl": "https://images.unsplash.com/photo-1563492065599-3520f775eeed?auto=format&fit=crop&w=1000&q=80",
+    "imageUrl": "/images/places/phetchabun-38.jpg",
     "rating": 4.8,
     "reviewCount": 346,
     "highlights": [
@@ -773,7 +773,7 @@
       "lat": 15.4704025,
       "lng": 101.1463263
     },
-    "imageUrl": "https://images.unsplash.com/photo-1528181304800-259b08848526?auto=format&fit=crop&w=1000&q=80",
+    "imageUrl": "/images/places/phetchabun-39.jpg",
     "rating": 4.9,
     "reviewCount": 373,
     "highlights": [
@@ -793,7 +793,7 @@
       "lat": 15.4704025,
       "lng": 101.1463263
     },
-    "imageUrl": "https://images.unsplash.com/photo-1596402184320-417e7178b2cd?auto=format&fit=crop&w=1000&q=80",
+    "imageUrl": "/images/places/phetchabun-40.jpg",
     "rating": 4.5,
     "reviewCount": 400,
     "highlights": [
@@ -813,7 +813,7 @@
       "lat": 15.78185,
       "lng": 101.04062
     },
-    "imageUrl": "https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&w=1000&q=80",
+    "imageUrl": "/images/places/phetchabun-41.jpg",
     "rating": 4.6,
     "reviewCount": 427,
     "highlights": [
@@ -833,7 +833,7 @@
       "lat": 16.73937272,
       "lng": 101.5738338
     },
-    "imageUrl": "https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&w=1000&q=80",
+    "imageUrl": "/images/places/phetchabun-42.jpg",
     "rating": 4.7,
     "reviewCount": 454,
     "highlights": [
@@ -853,7 +853,7 @@
       "lat": 16.7399536,
       "lng": 101.5737192
     },
-    "imageUrl": "https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&w=1000&q=80",
+    "imageUrl": "/images/places/phetchabun-43.jpg",
     "rating": 4.8,
     "reviewCount": 481,
     "highlights": [
@@ -873,7 +873,7 @@
       "lat": 16.741,
       "lng": 101.575
     },
-    "imageUrl": "https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&w=1000&q=80",
+    "imageUrl": "/images/places/phetchabun-44.jpg",
     "rating": 4.9,
     "reviewCount": 508,
     "highlights": [
@@ -893,7 +893,7 @@
       "lat": 16.738,
       "lng": 101.571
     },
-    "imageUrl": "https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&w=1000&q=80",
+    "imageUrl": "/images/places/phetchabun-45.jpg",
     "rating": 4.5,
     "reviewCount": 535,
     "highlights": [
@@ -913,7 +913,7 @@
       "lat": 16.7574699,
       "lng": 101.5092243
     },
-    "imageUrl": "https://images.unsplash.com/photo-1528181304800-259b08848526?auto=format&fit=crop&w=1000&q=80",
+    "imageUrl": "/images/places/phetchabun-46.jpg",
     "rating": 4.6,
     "reviewCount": 562,
     "highlights": [
@@ -933,7 +933,7 @@
       "lat": 16.742,
       "lng": 101.576
     },
-    "imageUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1000&q=80",
+    "imageUrl": "/images/places/phetchabun-47.jpg",
     "rating": 4.7,
     "reviewCount": 589,
     "highlights": [
@@ -953,7 +953,7 @@
       "lat": 16.5849003,
       "lng": 100.9316888
     },
-    "imageUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1000&q=80",
+    "imageUrl": "/images/places/phetchabun-48.jpg",
     "rating": 4.8,
     "reviewCount": 616,
     "highlights": [
@@ -975,7 +975,7 @@
       "lat": 16.80092,
       "lng": 101.0316685
     },
-    "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1000&q=80",
+    "imageUrl": "/images/places/phetchabun-49.jpg",
     "rating": 4.9,
     "reviewCount": 643,
     "highlights": [
@@ -995,7 +995,7 @@
       "lat": 16.5670922,
       "lng": 101.0126865
     },
-    "imageUrl": "https://images.unsplash.com/photo-1500937386664-56d1dfef3854?auto=format&fit=crop&w=1000&q=80",
+    "imageUrl": "/images/places/phetchabun-50.jpg",
     "rating": 4.5,
     "reviewCount": 670,
     "highlights": [
@@ -1015,7 +1015,7 @@
       "lat": 16.6857711,
       "lng": 100.9929763
     },
-    "imageUrl": "https://images.unsplash.com/photo-1466611653911-95081537e5b7?auto=format&fit=crop&w=1000&q=80",
+    "imageUrl": "/images/places/phetchabun-51.jpg",
     "rating": 4.6,
     "reviewCount": 697,
     "highlights": [
@@ -1035,7 +1035,7 @@
       "lat": 16.6523191,
       "lng": 101.0156186
     },
-    "imageUrl": "https://images.unsplash.com/photo-1500937386664-56d1dfef3854?auto=format&fit=crop&w=1000&q=80",
+    "imageUrl": "/images/places/phetchabun-52.jpg",
     "rating": 4.7,
     "reviewCount": 724,
     "highlights": [
@@ -1055,7 +1055,7 @@
       "lat": 16.5791173,
       "lng": 100.8830517
     },
-    "imageUrl": "https://images.unsplash.com/photo-1511497584788-87676104235f?auto=format&fit=crop&w=1000&q=80",
+    "imageUrl": "/images/places/phetchabun-53.jpg",
     "rating": 4.8,
     "reviewCount": 751,
     "highlights": [
@@ -1075,7 +1075,7 @@
       "lat": 16.74331797,
       "lng": 101.0181499
     },
-    "imageUrl": "https://images.unsplash.com/photo-1500937386664-56d1dfef3854?auto=format&fit=crop&w=1000&q=80",
+    "imageUrl": "/images/places/phetchabun-54.jpg",
     "rating": 4.9,
     "reviewCount": 778,
     "highlights": [
@@ -1095,7 +1095,7 @@
       "lat": 16.575653,
       "lng": 100.9791619
     },
-    "imageUrl": "https://images.unsplash.com/photo-1596402184320-417e7178b2cd?auto=format&fit=crop&w=1000&q=80",
+    "imageUrl": "/images/places/phetchabun-55.jpg",
     "rating": 4.5,
     "reviewCount": 805,
     "highlights": [
@@ -1115,7 +1115,7 @@
       "lat": 16.579331,
       "lng": 100.991328
     },
-    "imageUrl": "https://images.unsplash.com/photo-1528181304800-259b08848526?auto=format&fit=crop&w=1000&q=80",
+    "imageUrl": "/images/places/phetchabun-56.jpg",
     "rating": 4.6,
     "reviewCount": 832,
     "highlights": [
@@ -1135,7 +1135,7 @@
       "lat": 16.635205,
       "lng": 100.9785808
     },
-    "imageUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1000&q=80",
+    "imageUrl": "/images/places/phetchabun-57.jpg",
     "rating": 4.7,
     "reviewCount": 859,
     "highlights": [
@@ -1156,7 +1156,7 @@
       "lat": 16.5536022,
       "lng": 100.8968809
     },
-    "imageUrl": "https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&w=1000&q=80",
+    "imageUrl": "/images/places/phetchabun-58.jpg",
     "rating": 4.8,
     "reviewCount": 886,
     "highlights": [
@@ -1176,7 +1176,7 @@
       "lat": 16.5530175,
       "lng": 100.9759956
     },
-    "imageUrl": "https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&w=1000&q=80",
+    "imageUrl": "/images/places/phetchabun-59.jpg",
     "rating": 4.9,
     "reviewCount": 913,
     "highlights": [
@@ -1196,7 +1196,7 @@
       "lat": 16.641233,
       "lng": 101.000787
     },
-    "imageUrl": "https://images.unsplash.com/photo-1528181304800-259b08848526?auto=format&fit=crop&w=1000&q=80",
+    "imageUrl": "/images/places/phetchabun-60.jpg",
     "rating": 4.5,
     "reviewCount": 140,
     "highlights": [
@@ -1216,7 +1216,7 @@
       "lat": 16.6149719,
       "lng": 100.985712
     },
-    "imageUrl": "https://images.unsplash.com/photo-1596402184320-417e7178b2cd?auto=format&fit=crop&w=1000&q=80",
+    "imageUrl": "/images/places/phetchabun-61.jpg",
     "rating": 4.6,
     "reviewCount": 167,
     "highlights": [
@@ -1236,7 +1236,7 @@
       "lat": 16.789241,
       "lng": 101.05031
     },
-    "imageUrl": "https://images.unsplash.com/photo-1528181304800-259b08848526?auto=format&fit=crop&w=1000&q=80",
+    "imageUrl": "/images/places/phetchabun-62.jpg",
     "rating": 4.7,
     "reviewCount": 194,
     "highlights": [
@@ -1256,7 +1256,7 @@
       "lat": 16.627384,
       "lng": 100.939026
     },
-    "imageUrl": "https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?auto=format&fit=crop&w=1000&q=80",
+    "imageUrl": "/images/places/phetchabun-63.jpg",
     "rating": 4.8,
     "reviewCount": 221,
     "highlights": [
@@ -1276,7 +1276,7 @@
       "lat": 16.6036779,
       "lng": 100.9834611
     },
-    "imageUrl": "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?auto=format&fit=crop&w=1000&q=80",
+    "imageUrl": "/images/places/phetchabun-64.jpg",
     "rating": 4.9,
     "reviewCount": 248,
     "highlights": [
@@ -1296,7 +1296,7 @@
       "lat": 16.843022,
       "lng": 100.88022
     },
-    "imageUrl": "https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&w=1000&q=80",
+    "imageUrl": "/images/places/phetchabun-65.jpg",
     "rating": 4.5,
     "reviewCount": 275,
     "highlights": [
@@ -1316,7 +1316,7 @@
       "lat": 16.5765794,
       "lng": 100.8510356
     },
-    "imageUrl": "https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&w=1000&q=80",
+    "imageUrl": "/images/places/phetchabun-66.jpg",
     "rating": 4.6,
     "reviewCount": 302,
     "highlights": [
@@ -1336,7 +1336,7 @@
       "lat": 16.382244,
       "lng": 100.8294892
     },
-    "imageUrl": "https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&w=1000&q=80",
+    "imageUrl": "/images/places/phetchabun-67.jpg",
     "rating": 4.7,
     "reviewCount": 329,
     "highlights": [

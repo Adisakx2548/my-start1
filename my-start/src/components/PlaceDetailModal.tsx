@@ -11,6 +11,7 @@ interface PlaceDetailModalProps {
 
 export function PlaceDetailModal({ place, onClose }: PlaceDetailModalProps) {
   const [activeMediaTab, setActiveMediaTab] = useState<'image' | 'googlemap'>('image');
+  const [modalImgSrc, setModalImgSrc] = useState(place?.imageUrl || '');
 
   useEffect(() => {
     const handleKeyDown = (e: KeyboardEvent) => {
@@ -20,10 +21,13 @@ export function PlaceDetailModal({ place, onClose }: PlaceDetailModalProps) {
     return () => window.removeEventListener('keydown', handleKeyDown);
   }, [onClose]);
 
-  // Reset tab to image when place changes
+  // Reset tab to image and update image URL when place changes
   useEffect(() => {
     setActiveMediaTab('image');
-  }, [place?.id]);
+    if (place?.imageUrl) {
+      setModalImgSrc(place.imageUrl);
+    }
+  }, [place?.id, place?.imageUrl]);
 
   if (!place) return null;
 
@@ -51,8 +55,12 @@ export function PlaceDetailModal({ place, onClose }: PlaceDetailModalProps) {
           {activeMediaTab === 'image' ? (
             <>
               <img
-                src={place.imageUrl}
+                src={modalImgSrc}
                 alt={place.name}
+                referrerPolicy="no-referrer"
+                onError={() => {
+                  setModalImgSrc('/images/places/default.jpg');
+                }}
                 className="w-full h-full object-cover transition-opacity duration-300"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-slate-950/80 via-slate-950/20 to-transparent pointer-events-none" />

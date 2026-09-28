@@ -149,7 +149,7 @@ export function InteractiveMap({
       // Popup Content
       const popupHtml = `
         <div style="font-family: inherit; width: 210px; padding: 2px;">
-          <img src="${place.imageUrl}" style="width: 100%; height: 105px; object-fit: cover; border-radius: 8px; margin-bottom: 6px;" alt="${place.name}"/>
+          <img src="${place.imageUrl}" referrerpolicy="no-referrer" onerror="this.onerror=null;this.src='/images/places/default.jpg';" style="width: 100%; height: 105px; object-fit: cover; border-radius: 8px; margin-bottom: 6px;" alt="${place.name}"/>
           <div style="font-weight: 700; font-size: 13px; color: #1e293b; margin-bottom: 2px;">${place.name}</div>
           <div style="font-size: 11px; color: #64748b; margin-bottom: 4px;">อ.${place.district} • ⭐ ${place.rating.toFixed(1)}</div>
           <p style="font-size: 11px; color: #475569; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; margin: 0 0 8px 0;">${place.description}</p>

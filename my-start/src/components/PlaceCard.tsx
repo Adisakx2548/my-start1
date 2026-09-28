@@ -13,6 +13,12 @@ interface PlaceCardProps {
 
 export function PlaceCard({ place, isSelected, onSelect, onOpenDetail }: PlaceCardProps) {
   const [isFavorite, setIsFavorite] = useState(false);
+  const [imgSrc, setImgSrc] = useState(place.imageUrl);
+
+  // Update imgSrc if place prop changes
+  React.useEffect(() => {
+    setImgSrc(place.imageUrl);
+  }, [place.imageUrl]);
 
   const handleDirections = (e: React.MouseEvent) => {
     e.stopPropagation();
@@ -23,6 +29,10 @@ export function PlaceCard({ place, isSelected, onSelect, onOpenDetail }: PlaceCa
   const handleFavoriteClick = (e: React.MouseEvent) => {
     e.stopPropagation();
     setIsFavorite(!isFavorite);
+  };
+
+  const handleImageError = () => {
+    setImgSrc('/images/places/default.jpg');
   };
 
   return (
@@ -37,9 +47,12 @@ export function PlaceCard({ place, isSelected, onSelect, onOpenDetail }: PlaceCa
       {/* Thumbnail Container */}
       <div className="relative aspect-[16/10] w-full overflow-hidden bg-slate-100">
         <img
-          src={place.imageUrl}
+          src={imgSrc}
           alt={place.name}
           loading="lazy"
+          decoding="async"
+          referrerPolicy="no-referrer"
+          onError={handleImageError}
           className="h-full w-full object-cover transition-transform duration-700 group-hover:scale-108"
         />
 

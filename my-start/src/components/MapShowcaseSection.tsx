@@ -85,6 +85,10 @@ export function MapShowcaseSection({
                   <img
                     src={activePlace.imageUrl}
                     alt={activePlace.name}
+                    referrerPolicy="no-referrer"
+                    onError={(e) => {
+                      (e.currentTarget as HTMLImageElement).src = '/images/places/default.jpg';
+                    }}
                     className="w-full h-full object-cover transition-transform duration-500 hover:scale-105"
                   />
 
